@@ -57,3 +57,57 @@ Radiobutton(root,
             value=2).pack(anchor=W)
 mainloop()
 
+##Ejercicio 5
+from tkinter import *
+root = Tk()
+v = IntVar()
+v.set(1)  # initializing the choice, i.e. Python
+print("Ejercicio 5")
+languages = [("Python",1),
+    ("Perl",2),
+    ("Java",3),
+    ("C++",4),
+    ("C",5)]
+def ShowChoice():
+    print (v.get())
+Label(root, 
+    text="""Choose your favourite programming language:""",
+    justify = LEFT,
+    padx = 20).pack()
+for txt, val in languages:
+    Radiobutton(root, 
+    text=txt,
+    padx = 30, 
+    variable=v, 
+    command=ShowChoice,
+    value=val).pack(anchor=W)
+mainloop()
+
+##Ejercicio 6
+from tkinter import *
+root1 = Tk()
+v = IntVar()
+v.set(1)  # initializing the choice, i.e. Python
+print("Ejercicio 6")
+languages = [("Python",1),
+    ("Perl",2),
+    ("Java",3),
+    ("C++",4),
+    ("C",5)
+    ]
+def ShowChoice1():
+    print (v.get())
+Label(root1, 
+    text="""Escoja un lenguaje de programación:""",
+    justify = LEFT,
+    padx = 20).pack()
+for txt, val in languages:
+    Radiobutton(root1, 
+    text=txt,
+    indicatoron =0,
+    width = 20,
+    padx = 20, 
+    variable=v, 
+    command=ShowChoice1,
+    value=val).pack(anchor=W)
+
