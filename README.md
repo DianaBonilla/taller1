@@ -33,10 +33,19 @@ que deseamos que se ejecute.
 
 En ambos ejercicios podemos configurar el ancho y la altura de la ventana.
 
-Pregunta:¿Para qué sirve mainloop
+Pregunta:�Para que sirve mainloop
 
 
 Edison Osorio (Edy Osorio).- CONCLUSION :Tkinter es una de las principales herramientas de python para trabajar en el entorno gráfico, ya que nos brinda más funciones a la hora de crear un entorno gráfico, permitiendo presentarle al usuario un entorno más amigable. 
 
 EN LOS EJERCICIOS
 En el ejercicio 9 crea un ventana con dos label y dos campos donde se puede ingresar texto, en el ejercicio 10 crea una ventana similar a la del ejercicio 9 pero con dos botones que realizan la accion de imprimir en consola lo que ingresamos en los campos de texto y la opción de salir. 
+
+Conclusion Global:
+Necesitamos saber el uso adecuado de los comandos a utilizar en conjunto con la
+biblioteca tkinter porque al finalizar el trabajo tuvimos dificultades al importar 
+la biblioteca tkinter,pues la letra T estaba en mayuscula en lugar de minuscula.
+
+Quisimos unir los programas con botones que le correspondan a cada ejercicio, pero
+nos daban errores que no comprendiamos muy bien, el logro que tuvimos fue imprimir
+el ejercicio en una ventana al mismo tiempo, pero no lo implementamos en el ejercicio.
