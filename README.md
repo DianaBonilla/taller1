@@ -1,6 +1,6 @@
-# taller1
+﻿# taller1
 Conclusiones Individuales:
-Jordan Sanchez: La herramienta Tkinter es muy util para expresar programas en ventanas, tiene comandos muy faciles de aplicar y mejora la interaccion entre el usuario y el programa.
+Jordan Sanchez: La herramienta Tkinter es muy util para expresar programas en ventanas, tiene comandos muy faciles de aplicar y mejora la interaccion entre el usuario y el programa. Con respecto al ejercicio 1, muestra como podemos poner mensajes en la ventana, pueden ser mensajes largos o cortos, con respecto al ejercicio dos, nos enseña los comandos pra poder cambiar de color el fondo de la ventana, el tamaño de letra y el tipo de fuente de la letra, comando basicos ára mejorar la interfaz grafica del programa.
 
 Jessica Carrillo: Tkinter herramienta util que sirve que nos ayuda a mejorar la vista del usuario sobre el programa sirve de  interfaz grafica en el lenguaje Python ademas de brindar una mayor interactividad y entendimiento 
 El ejercicio 7 y 8 consta de un label que nos muestra un menu con dos opciones los cuales utilizan el checkbutton y en el cual podemos seleccionar una opcion la cual debe ser marcada y al presionar el boton show se imprime la seleccion tambien se ecunetra el boton quit el cual al desmarcar la seleccion la quita 
