@@ -3,6 +3,7 @@ Conclusiones Individuales:
 Jordan Sanchez: La herramienta Tkinter es muy util para expresar programas en ventanas, tiene comandos muy faciles de aplicar y mejora la interaccion entre el usuario y el programa.
 
 Jessica Carrillo: Tkinter herramienta util que sirve que nos ayuda a mejorar la vista del usuario sobre el programa sirve de  interfaz grafica en el lenguaje Python ademas de brindar una mayor interactividad y entendimiento 
+El ejercicio 7 y 8 consta de un label que nos muestra un menu con dos opciones los cuales utilizan el checkbutton y en el cual podemos seleccionar una opcion la cual debe ser marcada y al presionar el boton show se imprime la seleccion tambien se ecunetra el boton quit el cual al desmarcar la seleccion la quita 
 
 David Hernandez  user:EdisonHernandez
 Se debe tener en cuenta que tkinter es con t minuscula
@@ -22,14 +23,14 @@ En relacion al ejercio 5 se crea un menu con radiobuttons y para ello se utiliza
 el IntVar, este comando nos ayuda para que cuando seleccionemos un elemento se quite 
 la seleccion de un elemento anterior, en consola imprime los numeros segun el menu.
 En la etiqueta (label) podemos realizar el formato de texto que deseamos y la distancia
-que queremos del margen, donde dice command tenemos que ´poner el nombre de la funcion
+que queremos del margen, donde dice command tenemos que Â´poner el nombre de la funcion
 que deseamos que se ejecute.
 
 En en el ejercicio 6 tiene el mismo funcionamiento que el ejercicio anterior, a diferencia
 que utilizamos botones en lugar del menu con radiobuttons, pero seguimos con el uso del 
-IntVar y en ommand tenemos que ´poner el nombre de la funcion
+IntVar y en ommand tenemos que Â´poner el nombre de la funcion
 que deseamos que se ejecute.
 
 En ambos ejercicios podemos configurar el ancho y la altura de la ventana.
 
-Pregunta:¿Para qué sirve mainloop
+Pregunta:Â¿Para quÃ© sirve mainloop
